@@ -11,19 +11,19 @@ const (
 func main() {
 	var (
 		sieve [MAXSIZE + 1]int
-		count int = 1
+		count int = 0
 		prime int
-		i, k int
+		k int
 	)
 
-	fmt.Printf("Prime Numbers between 2 and %d\n", MAXSIZE*2+3)
+	fmt.Printf("Prime Numbers between 2 and %d\n", MAXSIZE * 2 + 3)
 
-	for i = 0; i <= MAXSIZE; i++ {
+	for i := 0; i <= MAXSIZE; i++ {
 		sieve[i] = KEPT
 	}
 
-	for i = 0; i <= MAXSIZE; i++ {
-		if sieve[i] == KEPT {
+	for i, v := range sieve {
+		if v == KEPT {
 			prime = i + i + 3
 			count++
 			for k = prime + i; k <= MAXSIZE; k += prime {
@@ -34,8 +34,8 @@ func main() {
 
 	fmt.Println(2)
 	k = 2
-	for i = 0; i <= MAXSIZE; i++ {
-		if sieve[i] == KEPT {
+	for i, v := range sieve {
+		if v == KEPT {
 			if k > 10 {
 				k = 1
 			}
