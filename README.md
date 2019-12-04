@@ -3,7 +3,7 @@
 
 代码为《C语言名题精选百则技巧篇》一书的Go语言版，原书示例代码为C语言编写
 
-![](./图片/s26597278.jpg)
+![](/图片/s26597278.jpg) 
 
 ## 目录
 
@@ -20,4 +20,6 @@
   * [问题2.1—Armstrong数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.1—Armstrong数) 
   * [问题2.2—数字谜](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.2—数字谜) 
   * [问题2.3—求质数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.3—求质数) 
+  * [问题2.4—筛法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.4—筛法)
+  * [问题2.5—线性筛选](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.5—线性筛选)
 
