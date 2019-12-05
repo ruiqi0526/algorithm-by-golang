@@ -22,4 +22,6 @@
   * [问题2.3—求质数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.3—求质数) 
   * [问题2.4—筛法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.4—筛法)
   * [问题2.5—线性筛选](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.5—线性筛选)
+  * [问题2.6—因子分解](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.6—因子分解) 
+  * [问题2.7—数值自乘递归解](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.7—数值自乘递归解)
 
