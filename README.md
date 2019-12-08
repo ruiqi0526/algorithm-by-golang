@@ -27,4 +27,13 @@
   * [问题2.7—数值自乘递归解](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.7—数值自乘递归解)
   * [问题2.8—数值自乘非递归解](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.8—数值自乘非递归解) 
   * [问题2.9—Fibonacci数非递归解](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.9—Fibonacci数非递归解) 
+  * [问题2.10—快速Fibonacci数算法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.10—快速Fibonacci数算法) 
+  * [问题2.11—扩充Fibonacci数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.11—扩充Fibonacci数) 
+  * [问题2.12—二项式系数加法解](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.12—二项式系数加法解) 
+  * [问题2.13—快速二项式系数算法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.13—快速二项式系数算法) 
+  * [问题2.14—快速阶乘运算](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.14—快速阶乘运算) 
+  * [问题2.15—更快的阶乘算法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.15—更快的阶乘算法) 
+  *  [问题2.16—连续整数的固定和](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.16—连续整数的固定和) 
+
+* [第三章]()
 
