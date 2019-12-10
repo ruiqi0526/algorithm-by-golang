@@ -38,5 +38,11 @@
   
   * [问题3.2—列出所有子集—字典序列](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.2—列出所有子集—字典序列)
   
+  * [问题3.3—产生Gray码](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.3—产生Gray码)
+  
+  * [问题3.4—产生所有排列—旋转法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.4—产生所有排列—旋转法)
+  
+    
+    
     
 
