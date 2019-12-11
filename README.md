@@ -42,6 +42,16 @@
   
   * [问题3.4—产生所有排列—旋转法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.4—产生所有排列—旋转法)
   
+  * [问题3.5—产生所有排列—字典顺序](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.5—产生所有排列—字典顺序)
+  
+  * [问题3.6—所有K个元素的子集](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.6—所有K个元素的子集)
+  
+  * [问题3.7—集合的所有分割方式](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.7—集合的所有分割方式)
+  
+  * [问题3.8—整数的所有不同分割数目](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.8—整数的所有不同分割数目)
+  
+  * [问题3.9—整数的分割方式](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.9—整数的分割方式)
+  
     
     
     
