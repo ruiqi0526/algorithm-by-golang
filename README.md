@@ -4,6 +4,8 @@
 
 代码为《C语言名题精选百则技巧篇》一书的Go语言版，原书示例代码为C语言编写
 
+<font color="red">注：本人水平有限，难免会出现错误，如有发现欢迎指正</font>
+
 ![](/图片/s26597278.jpg) 
 
 ## 目录
@@ -33,26 +35,21 @@
   * [问题2.15—更快的阶乘算法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.15—更快的阶乘算法) 
   *  [问题2.16—连续整数的固定和](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.16—连续整数的固定和) 
 * [第三章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章)
-  
   * [问题3.1—列出所有子集](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.1—列出所有子集) 
-  
   * [问题3.2—列出所有子集—字典序列](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.2—列出所有子集—字典序列)
-  
   * [问题3.3—产生Gray码](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.3—产生Gray码)
-  
   * [问题3.4—产生所有排列—旋转法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.4—产生所有排列—旋转法)
-  
   * [问题3.5—产生所有排列—字典顺序](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.5—产生所有排列—字典顺序)
-  
   * [问题3.6—所有K个元素的子集](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.6—所有K个元素的子集)
-  
   * [问题3.7—集合的所有分割方式](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.7—集合的所有分割方式)
-  
   * [问题3.8—整数的所有不同分割数目](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.8—整数的所有不同分割数目)
-  
   * [问题3.9—整数的分割方式](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.9—整数的分割方式)
+
+* [第四章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章)
+
   
-    
-    
-    
+
+
+
+
 
