@@ -11,12 +11,14 @@
 ## 目录
 
 * [原书C语言代码](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/书中源码（C语言）) 
+
 * [第一章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第一章) 
   * [问题1.1—最长平台](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第一章/问题1.1—最长平台) 
   * [问题1.2—支配值数目](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第一章/问题1.2—支配值数目) 
   * [问题1.3—等值数目](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第一章/问题1.3—等值数目) 
   * [问题1.4—两数组最短距离](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第一章/问题1.4—两数组最短距离) 
   * [问题1.5—等值首尾和](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第一章/问题1.5—等值首尾和) 
+  
 * [第二章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章) 
   * [问题2.1—Armstrong数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.1—Armstrong数) 
   * [问题2.2—数字谜](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.2—数字谜) 
@@ -34,6 +36,7 @@
   * [问题2.14—快速阶乘运算](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.14—快速阶乘运算) 
   * [问题2.15—更快的阶乘算法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.15—更快的阶乘算法) 
   *  [问题2.16—连续整数的固定和](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第二章/问题2.16—连续整数的固定和) 
+  
 * [第三章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章)
   * [问题3.1—列出所有子集](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.1—列出所有子集) 
   * [问题3.2—列出所有子集—字典序列](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.2—列出所有子集—字典序列)
@@ -47,6 +50,12 @@
 
 * [第四章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章)
 
+  * [问题4.1—寻找脚码](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.1—寻找脚码)
+  * [问题4.2—寻找固定的和](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.2—寻找固定的和)
+  * [问题4.3—无限式查找](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.3—无限式查找)
+  * [问题4.4—寻找极小值](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.4—寻找极小值)
+  * [问题4.5—两个数组的中位数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.5—两个数组的中位数)
+  
   
 
 
