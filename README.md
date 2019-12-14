@@ -55,6 +55,10 @@
   * [问题4.3—无限式查找](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.3—无限式查找)
   * [问题4.4—寻找极小值](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.4—寻找极小值)
   * [问题4.5—两个数组的中位数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.5—两个数组的中位数)
+  * [问题4.6—寻找中间值](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.6—寻找中间值)
+  * [问题4.7—3个数组的共同元素](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.7—3个数组的共同元素)
+  * [问题4.8—寻找最小与次小元素](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.8—寻找最小与次小元素)
+  * [问题4.9—查找矩阵](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.9—查找矩阵)
   
   
 
