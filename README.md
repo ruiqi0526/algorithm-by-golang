@@ -49,8 +49,7 @@
   * [问题3.9—整数的分割方式](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第三章/问题3.9—整数的分割方式)
 
 * [第四章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章)
-
-  * [问题4.1—寻找脚码](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.1—寻找脚码)
+* [问题4.1—寻找脚码](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.1—寻找脚码)
   * [问题4.2—寻找固定的和](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.2—寻找固定的和)
   * [问题4.3—无限式查找](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.3—无限式查找)
   * [问题4.4—寻找极小值](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.4—寻找极小值)
@@ -59,8 +58,10 @@
   * [问题4.7—3个数组的共同元素](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.7—3个数组的共同元素)
   * [问题4.8—寻找最小与次小元素](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.8—寻找最小与次小元素)
   * [问题4.9—查找矩阵](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.9—查找矩阵)
-  
-  
+  * [问题4.10—表示成两个数平方和](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.10—表示成两个数平方和)
+  * [问题4.11—最大方块区域](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.11—最大方块区域)
+
+* [第五章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章)
 
 
 
