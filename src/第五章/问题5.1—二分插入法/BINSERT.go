@@ -29,7 +29,7 @@ func Sort(input []int, n int) {
 			pos = low + 1
 		}
 		if pos >= 0 {
-			input[pos + 1] = input[pos][SIZE * (current - pos)]
+			input[pos + 1] = input[pos][0:SIZE * (current - pos) + 1]
 			input[pos] = x
 		}
 	}
