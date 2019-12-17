@@ -1,4 +1,4 @@
-<font face="FOT-Matisse Pro EB" size="7" align="center">Algorithm By GoLang</font>
+# Algorithm By GoLang
 
 经典算法（Go语言）
 
@@ -60,7 +60,20 @@
   * [问题4.11—最大方块区域](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.11—最大方块区域)
 * [第五章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章)
   * [问题5.1—二分插入法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.1—二分插入法)
+  
   * [问题5.2—Shell法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.2—Shell法)
+  
+  * [问题5.3—快速排列法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.3—快速排列法)
+  
+  * [问题5.4—保持等值的原来顺序](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.4—保持等值的原来顺序)
+  
+  * [问题5.5—非递归无堆栈快速排序法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.5—非递归无堆栈快速排序法)
+  
+  * [问题5.6—求中位数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.6—求中位数)
+  
+  * [问题5.7—堆积法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.7—堆积法)
+  
+    
 
 
 
