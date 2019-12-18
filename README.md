@@ -59,6 +59,7 @@
   * [问题4.10—表示成两个数平方和](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.10—表示成两个数平方和)
   * [问题4.11—最大方块区域](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第四章/问题4.11—最大方块区域)
 * [第五章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章)
+  
   * [问题5.1—二分插入法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.1—二分插入法)
   
   * [问题5.2—Shell法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.2—Shell法)
@@ -72,6 +73,14 @@
   * [问题5.6—求中位数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.6—求中位数)
   
   * [问题5.7—堆积法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.7—堆积法)
+  
+  * [问题5.8—改良的堆积法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.8—改良的堆积法)
+  
+  * [问题5.9—合并法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.9—合并法)
+  
+  * [问题5.10—桶子法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.10—桶子法)
+  
+  * [问题5.11—单一重复元素排序](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/问题5.11—单一重复元素排序)
   
     
 
