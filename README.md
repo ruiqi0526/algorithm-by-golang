@@ -82,6 +82,14 @@
   
   * [问题5.11—单一重复元素排序](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/问题5.11—单一重复元素排序)
   
+  * [问题5.12—均匀重复元素排序](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/问题5.12—均匀重复元素排序)
+  
+  * [问题5.13—堆积式合并](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/问题5.13—堆积式合并)
+  
+  * [问题5.14—检查数组元素是否相异](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/问题5.14—检查数组元素是否相异)
+  
+  * [问题5.15—数组中和为零的段落](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/问题5.15—数组中和为零的段落)
+  
     
 
 
