@@ -79,7 +79,8 @@
   * [问题5.18—包含在其他区间中的区间](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题5.18—包含在其他区间中的区间)
 
 * [第六章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第六章)
-  * 
+  * [问题6.1—括号匹配问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.1—括号匹配问题)
+  * [问题6.2—转换成后继式写法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.2—转换成后继式写法)
 
 
 
