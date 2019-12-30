@@ -81,6 +81,9 @@
 * [第六章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第六章)
   * [问题6.1—括号匹配问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.1—括号匹配问题)
   * [问题6.2—转换成后继式写法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.2—转换成后继式写法)
+  * [问题6.3—计算前置式写法](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.3—计算前置式写法)
+  * [问题6.4—KnuthMorrisPratt法寻找字符串](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.4—KnuthMorrisPratt法寻找字符串)
+  * [问题6.5—BoyerMoore法寻找字符串](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.5—BoyerMoore法寻找字符串)
 
 
 
