@@ -85,6 +85,11 @@
   * [问题6.4—KnuthMorrisPratt法寻找字符串](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.4—KnuthMorrisPratt法寻找字符串)
   * [问题6.5—BoyerMoore法寻找字符串](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.5—BoyerMoore法寻找字符串)
   * [问题6.6—所谓的h序列](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.6—所谓的h序列)
+  * [问题6.7—寻找部分序列](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.7—寻找部分序列)
+  * [问题6.8—最长重复部分序列](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.8—最长重复部分序列)
+  * [问题6.9—最长共同部分序列](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.9—最长共同部分序列)
+  * [问题6.10—字符串编修](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.10—字符串编修)
+  * [问题6.11—产生无连续重复部分的字符串](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第五章/问题6.11—产生无连续重复部分的字符串)
 
 
 
