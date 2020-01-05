@@ -96,6 +96,12 @@
   * [问题7.2—三色旗问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.2—三色旗问题)
   * [问题7.3—字符串列整数的转换](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.3—字符串列整数的转换)
   * [问题7.4—整数类型列的极值](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.4—整数类型列的极值)
+  * [问题7.5—无限位数算数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.5—无限位数算数)
+  * [问题7.6—线性表示的矩阵相乘](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.6—线性表示的矩阵相乘)
+  * [问题7.7—对称表示的矩阵相乘](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.7—对称表示的矩阵相乘)
+  * [问题7.8—找零钱问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.8—找零钱问题)
+  * [问题7.9—背包问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.9—背包问题)
+  * [问题7.10—最佳矩阵相乘顺序](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.10—最佳矩阵相乘顺序)
 
 
 
