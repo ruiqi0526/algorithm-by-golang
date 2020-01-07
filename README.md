@@ -102,6 +102,9 @@
   * [问题7.8—找零钱问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.8—找零钱问题)
   * [问题7.9—背包问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.9—背包问题)
   * [问题7.10—最佳矩阵相乘顺序](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.10—最佳矩阵相乘顺序)
+  
+  * [问题7.11—最短路径问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.11—最短路径问题)
+  * [问题7.12—产生匹配括号的字符串](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.12—产生匹配括号的字符串)
 
 
 
