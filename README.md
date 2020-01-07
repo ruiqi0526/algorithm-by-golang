@@ -92,6 +92,7 @@
   * [问题6.11—产生无连续重复部分的字符串](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第六章/问题6.11—产生无连续重复部分的字符串)
 
 * [第七章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章)
+  
   * [问题7.1—Buffon丢针问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.1—Buffon丢针问题)
   * [问题7.2—三色旗问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.2—三色旗问题)
   * [问题7.3—字符串列整数的转换](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.3—字符串列整数的转换)
@@ -102,11 +103,16 @@
   * [问题7.8—找零钱问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.8—找零钱问题)
   * [问题7.9—背包问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.9—背包问题)
   * [问题7.10—最佳矩阵相乘顺序](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.10—最佳矩阵相乘顺序)
-  
   * [问题7.11—最短路径问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.11—最短路径问题)
   * [问题7.12—产生匹配括号的字符串](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.12—产生匹配括号的字符串)
+  
+  * [问题7.13—稳定伴侣问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.13—稳定伴侣问题)
+  * [问题7.14—单调矩阵极值](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.14—单调矩阵极值)
+  * [问题7.15—向量分类](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.15—向量分类)
 
+* [第八章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章)
 
+  
 
 
 
