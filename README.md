@@ -105,14 +105,16 @@
   * [问题7.10—最佳矩阵相乘顺序](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.10—最佳矩阵相乘顺序)
   * [问题7.11—最短路径问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.11—最短路径问题)
   * [问题7.12—产生匹配括号的字符串](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.12—产生匹配括号的字符串)
-  
   * [问题7.13—稳定伴侣问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.13—稳定伴侣问题)
   * [问题7.14—单调矩阵极值](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.14—单调矩阵极值)
   * [问题7.15—向量分类](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.15—向量分类)
-
-* [第八章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章)
-
   
+* [第八章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章)
+* [问题8.1—奇数阶魔方阵](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.1—奇数阶魔方阵)
+  * [问题8.2—单偶数阶魔方阵](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.2—单偶数阶魔方阵)
+  * [问题8.3—双偶数阶魔方](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.3—双偶数阶魔方)
+  * [问题8.4—N后问题公式解](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.4—N后问题公式解)
+  * [问题8.5—N后问题递归解](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.5—N后问题递归解)
 
 
 
