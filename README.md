@@ -110,10 +110,11 @@
   * [问题7.15—向量分类](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.15—向量分类)
   
 * [第八章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章)
-* [问题8.1—奇数阶魔方阵](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.1—奇数阶魔方阵)
-  
+
+  * [问题8.1—奇数阶魔方阵](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.1—奇数阶魔方阵)
+
   * [问题8.2—单偶数阶魔方阵](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.2—单偶数阶魔方阵)
-  
+
   * [问题8.3—双偶数阶魔方](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.3—双偶数阶魔方)
   * [问题8.4—N后问题公式解](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.4—N后问题公式解)
   * [问题8.5—N后问题递归解](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.5—N后问题递归解)
@@ -122,7 +123,6 @@
   * [问题8.8—一笔画](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.8—一笔画)
   * [问题8.9—非递归河内之塔](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.9—非递归河内之塔)
   * [问题8.10—生命游戏](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.10—生命游戏)
-
 * [第九章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章)
 
   * [问题9.1—等量正负号段落](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.1—等量正负号段落)
