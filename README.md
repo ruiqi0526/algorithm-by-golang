@@ -110,8 +110,7 @@
   * [问题7.15—向量分类](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第七章/问题7.15—向量分类)
   
 * [第八章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章)
-
-  * [问题8.1—奇数阶魔方阵](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.1—奇数阶魔方阵)
+* [问题8.1—奇数阶魔方阵](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.1—奇数阶魔方阵)
   
   * [问题8.2—单偶数阶魔方阵](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.2—单偶数阶魔方阵)
   
@@ -124,5 +123,19 @@
   * [问题8.9—非递归河内之塔](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.9—非递归河内之塔)
   * [问题8.10—生命游戏](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第八章/问题8.10—生命游戏)
 
+* [第九章](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章)
 
+  * [问题9.1—等量正负号段落](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.1—等量正负号段落)
+  * [问题9.2—寻找长方形](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.2—寻找长方形)
+  * [问题9.3—多边形的直径](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.3—多边形的直径)
+  * [问题9.4—机器人旋转角度](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.4—机器人旋转角度)
+  * [问题9.5—最大涵盖距离](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.5—最大涵盖距离)
+
+  * [问题9.6—最大连续元素和](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.6—最大连续元素和)
+  * [问题9.7—最大连续元素积](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.7—最大连续元素积)
+  * [问题9.8—寻找名人](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.8—寻找名人)
+  * [问题9.9—投票问题](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.9—投票问题)
+  * [问题9.10—寻找1对1函数](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.10—寻找1对1函数)
+  * [问题9.11—寻找支配元素](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.11—寻找支配元素)
+  * [问题9.12—最长递增部分序列](https://github.com/ruiqi0526/algorithm-by-golang/tree/master/src/第九章/问题9.12—最长递增部分序列)
 
